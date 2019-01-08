@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Net Worth Calculator</string>
+
+    <string name="net_worth">Net Worth</string>
+    <string name="textview" />Placeholder
+    <string name="button">Update</string>
+    <string name="Delete">Delete Data</string>
+    <string name="net_worth1">Net Worth:</string>
+    <string name="are_you_sure_you_want_to_delete_data">Are you sure you want to delete data?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
